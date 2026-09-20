@@ -1,7 +1,7 @@
 import time
 import concurrent.futures
 
-N = 20  # Número de Fibonacci a calcular
+N = 40  # Número de Fibonacci a calcular
 
 def fibonacci(n):
 	if n <= 1:
